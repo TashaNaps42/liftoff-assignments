@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+All of the current wireframes are at this address: 
+https://miro.com/app/board/uXjVP4STnGU=/
+
+One major change that will show up is a bootstrap/equivalent floating header on most pages. Likely that about page (which I added to comply with TMDB's usage policy) will be deleted in favor of Jordan's design putting the legal info at the bottom of pages that use the search engine.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/WfPiNOx0/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/STL-WomenPlus-Mar22-LiftOff/group-kj
