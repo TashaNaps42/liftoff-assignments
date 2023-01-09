@@ -13,6 +13,6 @@ Provide a link to your GitHub account here.
 Provide a link to your LinkedIn account here.
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[My mock-up resume](https://docs.google.com/document/d/1dh0JJ_jO1YJAPU6DycbGC78sTR0G3KVK61v6guHhf1s/edit?usp=sharing)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
