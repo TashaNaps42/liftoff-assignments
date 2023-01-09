@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[My GitHub](https://github.com/TashaNaps42)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[My LinkedIn](https://www.linkedin.com/in/natasha-lewis-37738b261/)
 
 ### Resume
 [My mock-up resume](https://docs.google.com/document/d/1dh0JJ_jO1YJAPU6DycbGC78sTR0G3KVK61v6guHhf1s/edit?usp=sharing)
